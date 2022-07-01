@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?:sort3 was relatively slower at sorting the text files than both sort1 and sort2
+
+sort2 uses: Merge sort
+
+How do you know?: sort2 sorted all files faster that sort1 and sort3 respectively
+
+sort3 uses: selection sort
+
+How do you know?:the time taken for sort1 to sort all the text files were is less than sort2, but greater than sort3.
